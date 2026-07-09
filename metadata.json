@@ -1,0 +1,6 @@
+{
+  "name": "Аренда инструментов и расчет опалубки",
+  "description": "Профессиональный калькулятор корейской мелкощитовой опалубки (Euroform) по проектам и каталог аренды строительного инструмента.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
